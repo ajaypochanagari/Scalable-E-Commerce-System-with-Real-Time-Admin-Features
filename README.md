@@ -104,4 +104,4 @@ Follow the sections to understand:
 - How the database stores and retrieves data.
 - The flow of actions across the website.
 
-For detailed implementation, refer to the individual PHP files for each feature. Let me know if this structure works for you!
+For detailed implementation, refer to the individual PHP files for each feature.
